@@ -1,2 +1,2 @@
-# HopeChian
+# HopeChain
 Fundraising Platform
